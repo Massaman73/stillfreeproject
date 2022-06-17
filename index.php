@@ -65,7 +65,7 @@ if($_SERVER['REQUEST_METHOD']!='post'){
     
       <nav class="navbar navbar-light bg-white float-left w-100 px-2 py-3">
         <a class="mx-0 navbar-brand" href="#">
-            <img  class="d-none d-md-block" src="logo4.jpg" alt="">
+            <img  class=" d-md-block" src="logo4.jpg" alt="">
             <img class="d-md-none" src="logo5.jpg" alt="">
 
         </a>
