@@ -61,7 +61,7 @@ if($_SERVER['REQUEST_METHOD']!='post'){
 
     </script>
 
-    <header class="fixed-top">
+    <header class="sticky-top">
     
       <nav class="navbar navbar-light bg-white float-left w-100 px-2 py-3">
         <a class="mx-0 navbar-brand" href="#">
@@ -69,7 +69,7 @@ if($_SERVER['REQUEST_METHOD']!='post'){
             <img class="d-md-none" src="logo5.jpg" alt="">
 
         </a>
-       <h6 class="d-none d-md-block font-weight-bold">営業時間：8:00～20:00<br>定休日：不定休</h6>
+       <h6 class=" d-md-block font-weight-bold">営業時間：8:00～20:00<br>定休日：不定休</h6>
         <div class="pull-right d-flex align-items-center" style="font-size: 1em;">
         <a href="tel:080-1664-5454" class="" >
           <i class="fas fa-phone-square fa-3x fa-md-3x size" style="color:#1dbbfa;">
